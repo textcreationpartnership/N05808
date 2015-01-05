@@ -112,8 +112,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007376_0000_102B8C290B1B3748"/>
-            <pb facs="tcp:007376_0001_102B8C2B8AB5C688" rendition="simple:additions"/>
+            <pb facs="unknown:007376_0000_102B8C290B1B3748"/>
+            <pb facs="unknown:007376_0001_102B8C2B8AB5C688"
+                rendition="simple:additions"/>
             <p>POEMS.</p>
             <p>THE Conflagration, Applied to that grand Period or Cataſtrophe of our World, when the Face of Nature is to be changed by a Deluge of Fire, as formerly it was by that of Water.</p>
             <p>THE God of Tempeſt AND Earthquake.</p>
@@ -121,7 +122,7 @@
             </p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:007376_0002_102B8C2DC90EA638"/>
+            <pb facs="unknown:007376_0002_102B8C2DC90EA638"/>
             <p>
                <seg rend="decorInit">T</seg>HE ſentiments of authors are various in regard to the cauſe whence the Conflagration is to ariſe, and the effects it is to produce. Divines will have it take its riſe from a miracle, as a fire from heaven; but philoſophers contend for its being produced from natural cauſes: ſome think an eruption of the central fire ſuf<g ref="char:EOLhyphen"/>ficient for the purpoſe; others look for the cauſe in the atmoſphere. The aſtrologers account for it from a conjunction of all the planets in the ſign Cancer, as they ſay the deluge was occaſioned by the conjunc<g ref="char:EOLhyphen"/>tion in Capricorn: but others aſſure themſelves that the world is to undergo its conflagration from the near approach of a comet in its re<g ref="char:EOLhyphen"/>return from the ſun; as theſe huge bodies, by the intenſity of their heat, and their wandering tranſverſe motion acroſs the earth's orbit, threaten to produce the moſt ſignal changes and revolutions in the ſyſtem of things.</p>
             <bibl>New Dictionary of Arts and Sciences.</bibl>
@@ -129,7 +130,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="3" facs="tcp:007376_0003_102B8C2F53499388"/>
+            <pb n="3" facs="unknown:007376_0003_102B8C2F53499388"/>
             <head>The Conflagration.</head>
             <l>IN ſome calm Midnight, when no whiſp'ring Breeze</l>
             <l>Waves the tall Woods, or curls th' undimpled Seas,</l>
@@ -160,7 +161,7 @@
             <l>The Judge deſcending flames along the Air;</l>
             <l>And ſhouting Myriads pour around his Carr:</l>
             <l>
-               <pb n="4" facs="tcp:007376_0004_102B8C3188B9FA70"/>Each raviſh'd Seraph labours in his Praiſe,</l>
+               <pb n="4" facs="unknown:007376_0004_102B8C3188B9FA70"/>Each raviſh'd Seraph labours in his Praiſe,</l>
             <l>And Saints, alternate, catch th' immortal Lays;</l>
             <l>Here in melodious Strains bleſt Voices ſing,</l>
             <l>Here warbling Tubes, and here the vocal String,</l>
@@ -193,7 +194,7 @@
             <l>The ruſhing Rivers rapid roar around,</l>
             <l>And all the Shores return the daſhing Sound:</l>
             <l>
-               <pb n="5" facs="tcp:007376_0005_102B8C3321839AE8"/>Thus awful, ſlow, the fiery Deluge low'rs,</l>
+               <pb n="5" facs="unknown:007376_0005_102B8C3321839AE8"/>Thus awful, ſlow, the fiery Deluge low'rs,</l>
             <l>Thus ruſhes down, and thus reſounding rores.</l>
             <l>But O! what Sounds are able to convey</l>
             <l>The wild Confuſions of the dreadful Day!</l>
@@ -226,7 +227,7 @@
             <l>Freſh-dawning Glories bluſh amidſt the Blaze,</l>
             <l>And Nature all renews her flow'ry Face.</l>
             <l>
-               <pb n="6" facs="tcp:007376_0006_102B8C34AC10AB90"/>With endleſs Charms the everlaſting Year</l>
+               <pb n="6" facs="unknown:007376_0006_102B8C34AC10AB90"/>With endleſs Charms the everlaſting Year</l>
             <l>Rolls round the Seaſons in a full Career;</l>
             <l>
                <hi>Spring,</hi> ever-blooming, bids the Fields rejoice,</l>
@@ -260,7 +261,7 @@
             <l>And ſeem already of a Heav'n poſſeſs'd.</l>
          </div>
          <div type="poem">
-            <pb facs="tcp:007376_0007_102B8C379B4CC8E8"/>
+            <pb facs="unknown:007376_0007_102B8C379B4CC8E8"/>
             <head>The GOD of Tempeſt and Earthquake.</head>
             <lg n="1">
                <head>1.</head>
@@ -312,7 +313,7 @@
                <l>In harſh Diſorder riſe:</l>
             </lg>
             <lg n="8">
-               <pb n="8" facs="tcp:007376_0008_102B8C3980BE46F0"/>
+               <pb n="8" facs="unknown:007376_0008_102B8C3980BE46F0"/>
                <head>8.</head>
                <l>Amid the Hurricane I'll ſtand</l>
                <l>And ſtrike a tuneful Song;</l>
